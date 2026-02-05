@@ -2,11 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-- 🌱 I’m currently learning **Astro, Nextjs13**
+- 💬 Ask me about **PERN, python**
 
-- 💬 Ask me about **MERN, python**
-
-- 📫 How to reach me **nicofoque0205@gmail.com**
+- 📫 How to reach me **nikofoque@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
